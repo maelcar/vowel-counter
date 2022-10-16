@@ -9,7 +9,7 @@ This app counts the syllables of text. Technologies I have used: HTML, CSS, Java
 * [Portfolio web]()
 * [Linkedin]()
 
-## View app online
+## View App Online
 [VowelCounter](https://maelcar.github.io/vowel-counter/)
 
 

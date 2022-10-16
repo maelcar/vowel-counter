@@ -10,7 +10,7 @@ This app counts the syllables of text. Technologies I have used: HTML, CSS, Java
 * [Linkedin]()
 
 ## View app online
-[VowelCounter]()
+[VowelCounter](https://maelcar.github.io/vowel-counter/)
 
 
 
@@ -21,8 +21,3 @@ This app doesn't require installation, click on index.html
 ## Hire
 If you want to hire me you can write to realmaelcar@gmail.com
 
-
-
-## License
-MIT Public License v3.0
-Cannot be used commercially
